@@ -1,0 +1,21 @@
+@font-face{
+    font-family: "Montserrat";
+    src: url(Montserrat-Bold.ttf);
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+@font-face{
+    font-family: "Montserrat1";
+    src: url(Montserrat-SemiBold.ttf);
+}
+@font-face{
+    font-family: "Montserrat2";
+    src: url(Montserrat-Regular.ttf);
+}
+.h_text2, .h_text3, .h_text4, .h_text5, .h_text7, .h_text8, .h_text9, .t_txt2, .t_txt3, .t_txt5, .f_txt1{
+    font-family: "Montserrat1";
+    /* font-size: 10px;     */
+}
